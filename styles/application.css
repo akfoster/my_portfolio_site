@@ -1,0 +1,43 @@
+body {
+  font-family: 'Questrial', sans-serif;
+  width: 95%;
+  margin: 0 auto;
+}
+
+header {
+  text-align: center;
+  line-height: 50%;
+}
+
+div {
+  border-top: 1px solid black;
+  margin-bottom: 1.5em;
+  margin-top: 1.5em;
+}
+
+h4 {
+  font-size: 1.25em;
+  margin-bottom: .75em;
+  margin-top: .75em;
+}
+
+.site-info {
+  font-size: 1.25em;
+  border-top: none;
+}
+
+.container {
+  border-top: none;
+  margin: 0;
+}
+
+.linkedin, .github {
+  font-size: 1.25em;
+  margin: 0 2% 0 0;
+  border-top: none;
+}
+
+img {
+  margin-top: 1%;
+  width: 25px;
+}
